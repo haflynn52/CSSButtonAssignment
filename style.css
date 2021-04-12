@@ -1,0 +1,31 @@
+p {
+background-color: #d98c8c;
+ border: 2px solid #c65353;
+ border-radius: 10px;
+ color: white;
+ height: 60px;
+ width: 200px;
+ text-align: center;
+ display: inline-block;
+ font-size: 1.4rem;
+ line-height: 58px;
+ box-shadow: 5px 5px 5px #ADADAD;
+ background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 30%);
+}
+
+p:hover {
+  background-color: #993333;
+   border: 2px solid #732626;
+   border-radius: 10px;
+   color: #ecc6c6;
+   height: 60px;
+   width: 200px;
+   text-align: center;
+   display: inline-block;
+   font-size: 1.4rem;
+   line-height: 58px;
+   margin-left: 3px;
+   margin-bottom: 3px;
+   box-shadow: 1px 1px 1px #ADADAD;
+   background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3) 50%);
+}
